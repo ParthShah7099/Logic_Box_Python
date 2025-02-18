@@ -1,4 +1,13 @@
+'''
 
+PR.2 Logic Box
+Develop a Python program called Pattern Generator and Number Analyzer. This project
+emphasizes control structures, loops (for and while), the range() function, control
+statements (break, continue, pass), and nested loops for generating patterns. This
+program allows students to practice these programming concepts and logical problem-solving skills.
+
+
+'''
 
 
 while True:
