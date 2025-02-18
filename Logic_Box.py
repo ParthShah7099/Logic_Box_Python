@@ -6,7 +6,6 @@ emphasizes control structures, loops (for and while), the range() function, cont
 statements (break, continue, pass), and nested loops for generating patterns. This
 program allows students to practice these programming concepts and logical problem-solving skills.
 
-
 '''
 
 
